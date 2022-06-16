@@ -3,6 +3,7 @@
  const search = document.querySelector('input')
  const messageOne = document.querySelector('#message-1')
  const messageTwo = document.querySelector('#message-2')
+ const image = document.querySelector('image')
 
 //  messageOne.textContent = 'From JS'
  
